@@ -1,1 +1,2 @@
 "afadfads"
+ECHO is on.
